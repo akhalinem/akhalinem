@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/akhalinem"><img src="https://api.daily.dev/devcards/6739433c0af143dabbddb807772fd05c.png?r=nu1" width="400" alt="Abror Khalilov's Dev Card"/></a>
+<a href="https://app.daily.dev/akhalinem"><img src="https://github.com/akhalinem/akhalinem/blob/main/devcard.svg" width="400" alt="Abror Khalilov's Dev Card"/></a>
