@@ -65,11 +65,11 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: omBratteng
+          user: akhalinem
           template: classic
           base: ""
           config_display: large
-          config_timezone: Europe/Oslo
+          config_timezone: Asia/Tashkent
           config_output: svg
           filename: language.svg
 
