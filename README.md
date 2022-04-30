@@ -1,6 +1,18 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Abror Khalilov</h1>
+<h3 align="center">A passionate software engineer, AI Enthusiast</h3>
 
-<div align="left">
+<a href="https://app.daily.dev/akhalinem">
+    <img 
+         src="https://github.com/akhalinem/akhalinem/blob/main/devcard.svg" 
+         align="right" 
+         width="256"
+         alt="Abror Khalilov's Dev Card"
+     />
+</a>
+
+<br />
+
+<div>
   <a href="https://twitter.com/akhalinem">
     <img
       src="https://img.shields.io/twitter/follow/akhalinem?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
@@ -13,20 +25,15 @@
       alt="LinkedIn"
     />
   </a>
-
-  <a href="https://app.daily.dev/akhalinem">
-    <img src="https://github.com/akhalinem/akhalinem/blob/main/devcard.svg" width="400" alt="Abror Khalilov's Dev Card"/>
-  </a>
+  <span>
+    <img src="https://komarev.com/ghpvc/?username=akhalinem&label=Profile%20views&color=0e75b6&style=flat" alt="akhalinem" />
+  </span>  
 </div>
 
 <br />
 
-## I am Abror Khalilov
+- 🔭 I’m currently working on a startup [Livetalks.TV](https://info.livetalks.tv/)
 
-- Developer at [Livetalks.TV](https://info.livetalks.tv/)
-- Passionate about Tech
+- 🌱 I’m currently learning **Rust programming language**
 
-![Metrics](https://raw.githubusercontent.com/akhalinem/akhalinem/github-metrics/github-metrics.svg)
-![Most used languages](https://raw.githubusercontent.com/akhalinem/akhalinem/github-metrics/language.svg)
-![Notable contributions](https://raw.githubusercontent.com/akhalinem/akhalinem/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/akhalinem/akhalinem/github-metrics/achievements.svg)
+- 📫 How to reach me **a.xalilov1997@gmail.com**
