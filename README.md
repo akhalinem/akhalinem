@@ -21,7 +21,7 @@
 
 <br />
 
-## I am Abror Khalilo
+## I am Abror Khalilov
 
 - Developer at [Livetalks.TV](https://info.livetalks.tv/)
 - Passionate about Tech
