@@ -34,9 +34,9 @@
 
 - 👨🏻‍💻 I’m currently working on a startup [Livetalks.TV](https://info.livetalks.tv/)
 
-- 📖 As a software engineer, I am learning the following topics:
+- 📖 As a software engineer:
     - 📚 Sharpening and broadening my existing skill sets
-    - 🦀 Rust as a general purpose programming language
+    - 🦀 Learning Rust as a general purpose programming language
 
 - 📖 As an AI enthusiast, I am learning the following topics:
     - 🧠 Cognitive/Computational Neuroscience
