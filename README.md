@@ -42,4 +42,4 @@
     - 🧠 Cognitive/Computational Neuroscience
     - 🤖 Meta Reinforcement Learning
 
-- 📫 How to reach me **a.xalilov1997@gmail.com**
+- 📫 How to reach me **akhalinem@gmail.com**
