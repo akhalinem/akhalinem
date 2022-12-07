@@ -40,6 +40,6 @@
 
 - 📖 As an AI enthusiast, I am learning the following topics:
     - 🧠 Cognitive/Computational Neuroscience
-    - 🤖 Meta Reinforcement Learning
+    - 🤖 Reinforcement Learning
 
 - 📫 How to reach me **akhalinem@gmail.com**
