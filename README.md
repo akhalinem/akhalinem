@@ -32,7 +32,7 @@
 
 <br />
 
-- 👨🏻‍💻 I’m currently working on a startup [Livetalks.TV](https://info.livetalks.tv/)
+- 👨🏻‍💻 I’m currently working on a startup [FreightPOP](https://www.freightpop.com/)
 
 - 📖 As a software engineer:
     - 📚 Sharpening and broadening my existing skill sets
