@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abror Khalilov</h1>
-<h3 align="center">A passionate software engineer, AI Enthusiast</h3>
+<h3 align="center">A passionate software engineer and AI Enthusiast</h3>
 
 <a href="https://app.daily.dev/akhalinem">
     <img 
