@@ -36,10 +36,9 @@
 
 - 📖 As a software engineer:
     - 📚 Sharpening and broadening my existing skill sets
-    - 🦀 Learning Rust as a general purpose programming language
+    - 👨‍💻 Learning .NET C# framework to become a fullstack web developer
 
 - 📖 As an AI enthusiast, I am learning the following topics:
-    - 🧠 Cognitive/Computational Neuroscience
-    - 🤖 Reinforcement Learning
+    - 🤖 Exploring Reinforcement Learning
 
 - 📫 How to reach me **akhalinem@gmail.com**
