@@ -36,7 +36,7 @@
 
 - 📖 As a software engineer:
     - 📚 Sharpening and broadening my existing skill sets
-    - 👨‍💻 Learning .NET C# framework to become a fullstack web developer
+    - 👨‍💻 Learning .NET Core C# framework to become a fullstack web developer
 
 - 📖 As an AI enthusiast, I am learning the following topics:
     - 🤖 Exploring Reinforcement Learning
