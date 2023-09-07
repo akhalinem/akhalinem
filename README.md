@@ -42,3 +42,5 @@
     - 🤖 Exploring Reinforcement Learning
 
 - 📫 How to reach me **akhalinem@gmail.com**
+
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/643a84ece2725773748dead1?variant=dark" alt="roadmap.sh"/></a>
