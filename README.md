@@ -32,11 +32,11 @@
 
 <br />
 
-- 👨🏻‍💻 I’m currently working on a startup [FreightPOP](https://www.freightpop.com/)
+- 👨🏻‍💻 I’m currently working on a startup [Datatruck](https://www.datatruck.io/)
 
 - 📖 As a software engineer:
-    - 📚 Sharpening and broadening my existing skill sets
-    - 👨‍💻 Learning ASP.NET Core C# framework to become a fullstack web developer
+    - 📚 Sharpening and broadening my existing skill sets to become a so called "Product Engineer" in the era of AI
+    - 👨‍💻 Exploring ASP.NET Core C# framework to start backend development
 
 - 📖 As an AI enthusiast:
     - 🤖 Exploring Reinforcement Learning
